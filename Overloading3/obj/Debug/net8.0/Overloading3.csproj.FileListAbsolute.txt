@@ -1,0 +1,14 @@
+C:\Users\emine\source\repos\NTPHafta7Odev\Overloading3\bin\Debug\net8.0\Overloading3.exe
+C:\Users\emine\source\repos\NTPHafta7Odev\Overloading3\bin\Debug\net8.0\Overloading3.deps.json
+C:\Users\emine\source\repos\NTPHafta7Odev\Overloading3\bin\Debug\net8.0\Overloading3.runtimeconfig.json
+C:\Users\emine\source\repos\NTPHafta7Odev\Overloading3\bin\Debug\net8.0\Overloading3.dll
+C:\Users\emine\source\repos\NTPHafta7Odev\Overloading3\bin\Debug\net8.0\Overloading3.pdb
+C:\Users\emine\source\repos\NTPHafta7Odev\Overloading3\obj\Debug\net8.0\Overloading3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emine\source\repos\NTPHafta7Odev\Overloading3\obj\Debug\net8.0\Overloading3.AssemblyInfoInputs.cache
+C:\Users\emine\source\repos\NTPHafta7Odev\Overloading3\obj\Debug\net8.0\Overloading3.AssemblyInfo.cs
+C:\Users\emine\source\repos\NTPHafta7Odev\Overloading3\obj\Debug\net8.0\Overloading3.csproj.CoreCompileInputs.cache
+C:\Users\emine\source\repos\NTPHafta7Odev\Overloading3\obj\Debug\net8.0\Overloading3.dll
+C:\Users\emine\source\repos\NTPHafta7Odev\Overloading3\obj\Debug\net8.0\refint\Overloading3.dll
+C:\Users\emine\source\repos\NTPHafta7Odev\Overloading3\obj\Debug\net8.0\Overloading3.pdb
+C:\Users\emine\source\repos\NTPHafta7Odev\Overloading3\obj\Debug\net8.0\Overloading3.genruntimeconfig.cache
+C:\Users\emine\source\repos\NTPHafta7Odev\Overloading3\obj\Debug\net8.0\ref\Overloading3.dll
